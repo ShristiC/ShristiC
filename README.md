@@ -17,9 +17,11 @@ I am additionally taking Machine Learning, and Leadership and Emotional Intellig
 Anything and Everything related to disabilities and tech, linguistic analysis and technological integrations within cultural spheres of interaction! I am very new to NLP and ML, thus I would love to hear about your experience, your advice, and your interests. 
 
 ## Feel Free to Reach out to me on...
-LinkedIn: https://www.linkedin.com/in/shristi-chitlangia/
-Email: shristi.chitlangia@utexas.edu 
-Website: https://shristic.github.io/
+*LinkedIn:* https://www.linkedin.com/in/shristi-chitlangia/
+
+*Email:* shristi.chitlangia@utexas.edu 
+
+*Website:* https://shristic.github.io/
 
 
 
