@@ -9,7 +9,7 @@ My interests lie in the fields of Full-Stack Web and Mobile Application Developm
 Though I am a developer, I am also an artist, music lover, and a compassionate individual. Often you can find me making hand-made cards, listening to diverse forms of music both in genre and language, and additionally offering a helping hand to another whenever I can. 
 
 ## I am Currently Working On... 🔭
-an app along with my friend, to be used in India to help retrieve information from villages in order to better provide food and monetary responses due to the COVID pandemic.
+getting an introductory experience with Machine Learning and NLP. Hoping to work on a small project to get the idea. I am also in the process of launching an app I made with a friend to the Google Play Store to help field workers in India perform data retrieval. 
 
 I am additionally taking Machine Learning, and Leadership and Emotional Intelligence courses through Coursera. 
 
@@ -19,6 +19,7 @@ Anything and Everything related to disabilities and tech, linguistic analysis an
 ## Feel Free to Reach out to me on...
 LinkedIn: https://www.linkedin.com/in/shristi-chitlangia/
 Email: shristi.chitlangia@utexas.edu 
+Website: https://shristic.github.io/
 
 
 
