@@ -2,7 +2,7 @@
 I have visited and/or lived in 13 countries and am fluent in 3 languages!
 
 ## Who Am I? 😄
-I am a Sophomore at the University of Texas At Austin where I am double majoring in Computer Science and Linguistics, along with a minor in Disability Studies.
+I am a Junior at the University of Texas At Austin where I am majoring in Computer Science and minoring in Interdisciplinary Disability Studies, with an additional interest in Linguistics. 
 
 My interests lie in the fields of Full-Stack Web and Mobile Application Development, Natural Language Processing, and the integration of Artificial Intelligence to help connect people and strengthen cultural experiences. This past summer I interned for Srijan Technologies developing a News App. I additionally taught Python and Java to students in middle school and high school through Juni Learning. 
 
