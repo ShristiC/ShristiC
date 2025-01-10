@@ -1,25 +1,17 @@
 ## Fun Fact ⚡
-I have visited and/or lived in 13 countries and am fluent in 3 languages!
+I have visited and/or lived in 19 countries, 20 US States, and am fluent in 3 languages!
+
+## Pronouns 😄: 
+She / Her / Hers
 
 ## Who Am I? 😄
-I am a recent graduate from The University of Texas at Austin, with a Bachelors in Computer Science, and a minor in Disability Studies. I am currently seeking full-time entry level software engineering opportunities. My primary experience has been in traditional backend software engineering technologies, with her internships giving her the opportunity to work on impactful projects that drive greater revenue and streamlined data processing in production. I have a base understanding of migrating some legacy code, providing transparent metrics on data transfers, and collaborating with stakeholders to design ETL systems. I also have experience in reviewing resumes, guiding peers to explore careers that best fit interests and skills, and leads mock interviews to prepare students in their upcoming interviews. I hope to expand her mentorship and leadership skills in her next role as well.
-
-I am also an A11ly (disability tech) advocate and has been active in engaging in conversations and development in how products can be more accessible. She works towards critically understanding how the targeted audiences of software products exclude a wide majority of disabled people. She aims to work for a company that prioritizes accessibility, or is open to conversations about accessibility, and is willing to take the charge on making products more inclusive.
-
-Though I am a developer, I am also an artist, music lover, and a compassionate individual. Often you can find me making hand-made cards, listening to diverse forms of music both in genre and language, and additionally offering a helping hand to another whenever I can. 
-
-## I am Currently Working On... 🔭
-Learning accessible web development, updating my engineering and leadership skills, and working on projects on WAI-ARIA practices.
+I am a full-stack software engineer. I work in the Assistive Technology, Accessibility, and Disability Tech Space. I am passionate about empowering end-users with tools and technologies that lead to an independent life. I like to keep learning and applying, thinking of myself as a sponge for absorbing new information. I like to mentor, volunteer, and meet new people. I have experience working with React, Electron, React Native, C#, .NET, and Python. 
 
 ## I would love to collaborate and get help on... 👯
-Learning Cloud Engineering, Applying AI to accessibility related projects, understanding web development and React. I have primary experience as a backend developer and running some base Machine Learning Models, but am looking to learn about web development and integrating new technologies like OpenAI to existing tech to make products more inclusive. 
+Assistive Technology and Generative AI. I did some machine learning classes in college, however am looking to get deeper in the space to see how AI can be applied for the end-user. I am interested in keeping AI Integrations tightly coupled and private to the user, with little interest in selling data or training on user information. 
 
 ## Feel Free to Reach out to me on...
 *LinkedIn:* https://www.linkedin.com/in/shristi-chitlangia/
-
-*Email:* shristichitlangia2001@gmail.com
-
-
 
 <!--
 **ShristiC/ShristiC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
